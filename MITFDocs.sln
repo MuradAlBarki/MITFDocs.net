@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MITFDocs", "MITFDocs\MITFDocs.vbproj", "{22603302-62B4-414C-AEF1-E56EBF939412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22603302-62B4-414C-AEF1-E56EBF939412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22603302-62B4-414C-AEF1-E56EBF939412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22603302-62B4-414C-AEF1-E56EBF939412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22603302-62B4-414C-AEF1-E56EBF939412}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {312A1B54-CDF6-42D9-B6A4-5C9B87A1F244}
+	EndGlobalSection
+EndGlobal
